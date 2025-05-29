@@ -21,7 +21,7 @@ mysql-k8s-statefulset/
 
 ## 🧰 Tools & Concepts Used
 
-- Kubernetes (Minikube or any cluster)
+- Kubernetes (KIND cluster or any cluster)
 - StatefulSet
 - Headless Service (`clusterIP: None`)
 - ConfigMaps & Secrets
